@@ -1,0 +1,18 @@
+header {
+  height: 220px;
+  background-color: #666;
+  background-color: wheat;
+  background-image: url(./images/clouds.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 100px;
+}
+
+main {
+  padding: 30px 0px;
+}
+
+div.grid1200 {
+  width: 1200px;
+  margin: 0px auto;
+}
